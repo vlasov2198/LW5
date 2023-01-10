@@ -1,0 +1,15 @@
+C:\Development\C#\study\LW5\EX2\obj\Debug\net6.0\EX2.csproj.AssemblyReference.cache
+C:\Development\C#\study\LW5\EX2\obj\Debug\net6.0\EX2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\C#\study\LW5\EX2\obj\Debug\net6.0\EX2.AssemblyInfoInputs.cache
+C:\Development\C#\study\LW5\EX2\obj\Debug\net6.0\EX2.AssemblyInfo.cs
+C:\Development\C#\study\LW5\EX2\obj\Debug\net6.0\EX2.csproj.CoreCompileInputs.cache
+C:\Development\C#\study\LW5\EX2\bin\Debug\net6.0\EX2.exe
+C:\Development\C#\study\LW5\EX2\bin\Debug\net6.0\EX2.deps.json
+C:\Development\C#\study\LW5\EX2\bin\Debug\net6.0\EX2.runtimeconfig.json
+C:\Development\C#\study\LW5\EX2\bin\Debug\net6.0\EX2.dll
+C:\Development\C#\study\LW5\EX2\bin\Debug\net6.0\EX2.pdb
+C:\Development\C#\study\LW5\EX2\obj\Debug\net6.0\EX2.dll
+C:\Development\C#\study\LW5\EX2\obj\Debug\net6.0\refint\EX2.dll
+C:\Development\C#\study\LW5\EX2\obj\Debug\net6.0\EX2.pdb
+C:\Development\C#\study\LW5\EX2\obj\Debug\net6.0\EX2.genruntimeconfig.cache
+C:\Development\C#\study\LW5\EX2\obj\Debug\net6.0\ref\EX2.dll
